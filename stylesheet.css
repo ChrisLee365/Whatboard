@@ -1,0 +1,62 @@
+body {
+    background: none;
+}
+html {
+    background-color: #151515;
+    color: rgb(206, 171, 93);
+}
+ 
+h5{
+    color: rgb(165, 135, 0);
+    
+}
+h4{
+    color: rgb(165, 135, 0);
+    
+}
+h3{
+    color: rgb(165, 135, 0);
+    
+}
+h2{
+    color: rgb(165, 135, 0);
+   
+}
+h1 {
+    color: rgb(165, 135, 0);
+    
+}
+p {
+    color: #ff7f50;
+    
+    
+}
+a:link {
+    color: rgb(255, 140, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(255, 25, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(251, 255, 0);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgb(228, 165, 37);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+img {
+    vertical-align: middle; /* Aligns the text to the middle of the image */
+    margin-right: 10px; /* Adds some space between the image and the text */
+}
+
